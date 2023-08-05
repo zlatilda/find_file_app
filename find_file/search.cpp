@@ -93,7 +93,7 @@ int get_directories_num()
 void _search()
 {
     string search_file;
-    printf("File to search: ");
+    printf("File to search (with extension): ");
     cin >> search_file;
     const char* c_search_file = search_file.c_str();
 

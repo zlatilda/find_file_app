@@ -51,3 +51,21 @@
 	<cstdlib>
 	<iostream>
 
+1691264260 source:d:\find_file_app\find_file\main.cpp
+	"search.h"
+	<exception>
+	<stdio.h>
+	<cstdlib>
+
+1691226940 d:\find_file_app\find_file\search.h
+
+1691263920 source:d:\find_file_app\find_file\search.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<thread>
+	<vector>
+	<mutex>
+	"search.h"
+
